@@ -1,4 +1,4 @@
-name: Run Script and Push TXT Files
+name: Run Script
 
 on:
   workflow_dispatch:
