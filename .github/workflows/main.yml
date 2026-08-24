@@ -29,7 +29,3 @@ jobs:
 
       - name: Run script
         run: python3 send_cli.py
-
-            git commit -m "Add/update .txt files from workflow run"
-            git push
-          fi
